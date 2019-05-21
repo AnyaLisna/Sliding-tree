@@ -1,0 +1,16 @@
+body {
+  font-size: 18px;
+}
+
+span {
+  cursor: pointer;
+}
+
+span:hover {
+  font-weight: bold;
+}
+
+.hide {
+  display: none;
+}
+
